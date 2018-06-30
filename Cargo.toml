@@ -5,4 +5,4 @@ authors = ["Salvador Guzman <guzmansalv@gmail.com>"]
 
 [dependencies]
 reqwest = "0.8.6"
-select = "0.4.2"
+html5ever = "0.22.3"
